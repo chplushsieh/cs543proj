@@ -8,3 +8,4 @@ Plotting results for cs 543 project
 # Usage
 1. Open Matlab
 2. Run 'run_plot.m'
+3. Generated Figures will be saved at 'cs432proj/figures'
